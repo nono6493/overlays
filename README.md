@@ -13,6 +13,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  
  List of overlay/games now available in this repository :
  
+	* Bubble Bobble (Taito) - Based on the original cabinet bezel
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee
