@@ -20,6 +20,9 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Mikie (Konami) - Based on the original Century's flyer.
+	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on original cabinet bezel.
-	
+
+Contributors : ts-x
+
 More to come soon ...

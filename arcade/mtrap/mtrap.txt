@@ -1,0 +1,4 @@
+game: Mouse Trap
+publisher: Exidy
+overlay author: ts-x
+source material: original cabinet bezel.
