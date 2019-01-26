@@ -13,12 +13,13 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  
  List of overlay/games now available in this repository :
  
-	* Bubble Bobble (Taito) - Based on the original cabinet bezel
+	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
-	* Express Raider (Data East) - Based on the original cabinet marquee
-	* Jungle King (Taito) - Based on the original cabinet bezel
-	* Mikie (Konami) - Based on the original Century flyer
+	* Express Raider (Data East) - Based on the original cabinet marquee.
+	* Jungle King (Taito) - Based on the original cabinet bezel.
+	* Mikie (Konami) - Based on the original Century's flyer.
+	* Rygar (Tecmo) - Based on original cabinet bezel.
 	
 More to come soon ...
