@@ -30,6 +30,10 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Solar Fox (CBS) - Based on the original cabinet bezel. - Contribution from ts-x -
 	* Wizard of Wor (CBS) - Based on original overlay created by UDb23. - Contribution from ts-x -
 
+	Atari 7800
+	* Asteroids (Atari) - Original overlay created by UDb23. - Contribution from ts-x -
+	* Food Fight (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	
 Contributors : ts-x
 
 More to come soon ...
