@@ -13,6 +13,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  
  List of overlay/games now available in this repository :
  
+ 	Arcade
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
@@ -21,7 +22,13 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Mikie (Konami) - Based on the original Century's flyer.
 	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
+	* Robotron (Williams) - Based on original overlay created by UDb23.
 	* Rygar (Tecmo) - Based on original cabinet bezel.
+	
+	Atari 2600
+	* Pengo (Sega/Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
+	* Solar Fox (CBS) - Based on the original cabinet bezel. - Contribution from ts-x -
+	* Wizard of Wor (CBS) - Based on original overlay created by UDb23. - Contribution from ts-x -
 
 Contributors : ts-x
 
