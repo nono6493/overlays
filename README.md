@@ -22,7 +22,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Mikie (Konami) - Based on the original Century's flyer.
 	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
-	* Robotron (Williams) - Based on original overlay created by UDb23.
+	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on original cabinet bezel.
 	
 	Atari 2600
