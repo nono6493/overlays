@@ -26,12 +26,13 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Mikie (Konami) - Based on the original Century's flyer.
-	* Moon Patrol (Williams) - Based on the original bezel.
+	* Moon Patrol (Williams) - Based on the original cabinet bezel.
 	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
 	* Qix (Taito) - Based on original cabinet bezel.
 	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on original cabinet bezel.
 	* The Electric YoYo (Taito) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Up'n Down (Sega) - Based on original cabinet bezel.
 	
 	Atari 2600
 	* Pengo (Sega/Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
