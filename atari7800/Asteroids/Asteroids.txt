@@ -1,0 +1,4 @@
+game: Asteroids
+publisher: Atari
+overlay author: UDb23
+source material: original overlay created by UDb23

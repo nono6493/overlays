@@ -1,0 +1,4 @@
+game: Solar Fox
+publisher: CBS Electronics
+overlay author: ts-x
+source material: original cabinet bezel found on http://www.arcadeartwork.org/.

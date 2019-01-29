@@ -13,16 +13,33 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  
  List of overlay/games now available in this repository :
  
+ 	Arcade
+	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
+	* Centipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Dig Dug (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Mikie (Konami) - Based on the original Century's flyer.
 	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
+	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on original cabinet bezel.
+	* The Electric YoYo (Taito) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	
+	Atari 2600
+	* Pengo (Sega/Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
+	* Solar Fox (CBS) - Based on the original cabinet bezel. - Contribution from ts-x -
+	* Wizard of Wor (CBS) - Based on original overlay created by UDb23. - Contribution from ts-x -
 
+	Atari 7800
+	* Asteroids (Atari) - Original overlay created by UDb23. - Contribution from ts-x -
+	* Food Fight (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	
 Contributors : ts-x
 
 More to come soon ...
