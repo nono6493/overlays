@@ -1,0 +1,4 @@
+game: Phoenix
+publisher: Centuri
+overlay author: UDb23, modified by ts-x
+source material: original overlay created by UDb23
