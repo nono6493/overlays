@@ -1,0 +1,4 @@
+game: Klax
+publisher: Atari
+overlay author: ts-x
+source material: original cabinet bezel found on http://www.arcadeartwork.org/.
