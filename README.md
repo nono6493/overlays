@@ -24,13 +24,27 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
+	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Galaga (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Joust (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jungle King (Taito) - Based on the original cabinet bezel.
+	* Klax (Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
+	* Marble Madness (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Mikie (Konami) - Based on the original Century's flyer.
+	* Millipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Missile Command (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Moon Patrol (Williams) - Based on the original cabinet bezel.
 	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
+	* Ms. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Pac-Man (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Phoenix (Centuri) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Qix (Taito) - Based on original cabinet bezel.
 	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on original cabinet bezel.
+	* Space Invaders (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Space Invaders, Part II (Taito) - Based on original overlay created by Krakerman. - Contribution from ts-x -
+	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* The Electric YoYo (Taito) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Up'n Down (Sega) - Based on original cabinet bezel.
 	
