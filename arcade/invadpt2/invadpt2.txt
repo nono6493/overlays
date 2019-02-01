@@ -1,0 +1,4 @@
+game: Space Invaders, Part II
+publisher: Taito
+overlay author: Krakerman, modified by ts-x
+source material: original overlay created by Krakerman
