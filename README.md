@@ -30,6 +30,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Klax (Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
+	* Led Storm (Capcom) - Original including some elements from cabinet bezel.
 	* Marble Madness (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Mikie (Konami) - Based on the original Century's flyer.
 	* Millipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
