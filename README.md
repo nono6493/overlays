@@ -43,6 +43,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Qix (Taito) - Based on original cabinet bezel.
 	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on original cabinet bezel.
+	* Scramble (Stern Electronic) - Original including some elements from cabinet bezel.
 	* Space Invaders (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Space Invaders, Part II (Taito) - Based on original overlay created by Krakerman. - Contribution from ts-x -
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -

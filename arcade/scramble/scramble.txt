@@ -1,0 +1,4 @@
+game: Scramble
+publisher: Stern Electronic
+overlay author: nono6493
+source material: Original cabinet bezel found on http://www.arcadeartwork.org.
