@@ -22,6 +22,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Dig Dug (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Donkey Kong Jr. (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
