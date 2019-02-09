@@ -27,6 +27,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Galaga (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Ghosts'n Goblins (Capcom) - Based on the original cabinet bezel.
 	* Joust (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jungle King (Taito) - Based on the original cabinet bezel.
