@@ -1,0 +1,4 @@
+game: Alien Storm
+publisher: Sega
+overlay author: nono6493
+source material: Rebuilt from various elements and inspired by Krakerman's overlay downloadable at http://www.rlauncher.com/forum/showthread.php?2503-My-MAME-custom-Bezel-project!/page18&styleid=2.

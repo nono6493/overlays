@@ -14,6 +14,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  List of overlay/games now available in this repository :
  
  	Arcade
+	* Alien Storm (Sega) - Based on the original cabinet bezel.
 	* Armored Car (Stern Electronic) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
