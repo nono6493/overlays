@@ -1,0 +1,4 @@
+game: APB - All Points Bulletin
+publisher: Atari
+overlay author: nono6493
+source material: original cabinet bezel found on http://www.arcadeartwork.org/.

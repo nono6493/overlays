@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "APB - All Points Bulletin (rev 7)"
+rom_config = "apb.zip.cfg"
+overlay_config = "apb.cfg"
+overlay_image = "apb_nono6493-ovl.png"
+rom_clones = "apbf; apbg; apb1; apb2; apb3; apb4; apb5; apb6"
+system = "arcade"
