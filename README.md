@@ -17,6 +17,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Alien Storm (Sega) - Based on the original cabinet bezel.
 	* Armored Car (Stern Electronic) - Based on the original cabinet bezel.
 	* Alpine Ski (Taito) - Based on the original cabinet bezel.
+	* Altered Beast (Sega) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
