@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Armored Car (set 1)"
+rom_config = "armorcar.zip.cfg"
+overlay_config = "armorcar.cfg"
+overlay_image = "armorcar_nono6493-ovl.png"
+rom_clones = "armorcar2"
+system = "arcade"
