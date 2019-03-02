@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Alpine Ski (set 1)"
+rom_config = "alpine.zip.cfg"
+overlay_config = "alpine.cfg"
+overlay_image = "alpine_nono6493-ovl.png"
+rom_clones = "alpinea"
+system = "arcade"
