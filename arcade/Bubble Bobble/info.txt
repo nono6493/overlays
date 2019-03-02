@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Bubble Bobble (Japan, Ver 0.1)"
+rom_config = "bublbobl.zip.cfg"
+overlay_config = "bublbobl.cfg"
+overlay_image = "bublbobl_nono6493-ovl.png"
+rom_clones = "bublbobl1; bublbob1; bublboblp; bublbobr; bublboblr1; bublboblr; bubbobr1"
+system = "arcade"
