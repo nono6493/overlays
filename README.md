@@ -36,6 +36,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Galaga (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Ghosts'n Goblins (Capcom) - Based on the original cabinet bezel.
 	* Ghouls'n Ghosts (Capcom) - Based on the original cabinet bezel.
+	* Golden Axe (Sega) - Based on the original cabinet bezel.
 	* Gyruss (Konami) - Based on the original "Centuri" cabinet bezel.
 	* Joust (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -

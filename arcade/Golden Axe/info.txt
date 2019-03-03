@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Golden Axe (set 6, US) (8751 317-123A)"
+rom_config = "goldnaxe.zip.cfg"
+overlay_config = "goldnaxe.cfg"
+overlay_image = "goldnaxe_nono6493-ovl.png"
+rom_clones = "goldnax1; goldnaxe1; goldnax2; goldnaxe2; goldnax3; goldnaxe3; goldnaxe3d; goldnaxj; goldnaxej; goldnaxejd; goldnaxu; goldnaxeu; goldnaxeud; goldnxj2; goldnaxa; goldnaxb; goldnaxc"
+system = "arcade"
