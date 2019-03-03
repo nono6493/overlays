@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Caveman Ninja (World ver 4)"
+rom_config = "cninja.zip.cfg"
+overlay_config = "cninja.cfg"
+overlay_image = "cninja_nono6493-ovl.png"
+rom_clones = "cninjaa; cninjabl; cninjau; cninja0; cninja1"
+system = "arcade"
