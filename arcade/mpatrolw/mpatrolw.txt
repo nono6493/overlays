@@ -1,4 +1,0 @@
-game: Moon Patrol
-publisher: Williams (under licence from Irem)
-overlay author: nono6493
-source material: original arcade cabinet downloaded on http://mrdo.mameworld.info.
