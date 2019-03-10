@@ -1,0 +1,4 @@
+game: Mikie
+publisher: Konami
+overlay author: nono6493
+source material: flyer for centuri arcade cabinet.
