@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Double Dragon (Japan)"
+rom_config = "ddragon.zip.cfg"
+overlay_config = "ddragon.cfg"
+overlay_image = "ddragon_nono6493-ovl.png"
+rom_clones = "ddragonua; ddragonub; ddragonw; ddragonw1; ddragnw1; ddragoua; ddragonu"
+system = "arcade"

@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Ghosts'n Goblins (World? set 1)"
+rom_config = "gng.zip.cfg"
+overlay_config = "gng.cfg"
+overlay_image = "gng_nono6493-ovl.png"
+rom_clones = "gngt; gnga; gngc"
+system = "arcade"

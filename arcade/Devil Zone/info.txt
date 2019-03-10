@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Devil Zone"
+rom_config = "devzone.zip.cfg"
+overlay_config = "devzone.cfg"
+overlay_image = "devzone_nono6493-ovl.png"
+rom_clones = "devzone2"
+system = "arcade"

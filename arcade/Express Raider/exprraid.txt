@@ -1,0 +1,4 @@
+game: Express Raider
+publisher: Data East
+overlay author: nono6493
+source material: original cabinet marquee found on http://www.arcadeartwork.org/.

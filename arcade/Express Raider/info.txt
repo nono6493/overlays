@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Express Raider (World, Rev 4)"
+rom_config = "exprraid.zip.cfg"
+overlay_config = "exprraid.cfg"
+overlay_image = "exprraid_nono6493-ovl.png"
+rom_clones = "exprraidi; exprrada; exprraida; exprraidu"
+system = "arcade"
