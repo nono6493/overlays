@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Shadow Dancer (World)"
+rom_config = "shdancer.zip.cfg"
+overlay_config = "shdancer.cfg"
+overlay_image = "shdancer_nono6493-ovl.png"
+rom_clones = "shdancerj; shdancrj; shdancrb; shdance1; shdancej; shdancer1"
+system = "arcade"

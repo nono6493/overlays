@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Shinobi (set 6, System 16A) (unprotected)"
+rom_config = "shinobi.zip.cfg"
+overlay_config = "shinobi.cfg"
+overlay_image = "shinobi_nono6493-ovl.png"
+rom_clones = "shinobi1; shinobia; shinobi2; shinobaa; shinobib; shinobi3; shinobic; shinobi4; shinobi5; shinobi6"
+system = "arcade"
