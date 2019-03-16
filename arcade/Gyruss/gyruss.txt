@@ -1,0 +1,4 @@
+game: Gyrus
+publisher: Sega
+overlay author: nono6493
+source material: Rebuilt from original arcade's bezel found at http://www.arcadeartwork.org/ + original arcade's flyer + instructions card by Krakerman
