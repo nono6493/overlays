@@ -1,4 +1,0 @@
-game: Track & Field
-publisher: Konami
-overlay author: nono6493
-source material: original flyer found at https://flyers.arcade-museum.com/.
