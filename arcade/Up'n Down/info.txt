@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Up'n Down (315-5030)"
+rom_config = "upndown.zip.cfg"
+overlay_config = "upndown.cfg"
+overlay_image = "upndown_nono6493-ovl.png"
+rom_clones = "upndownu"
+system = "arcade"
