@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Rygar (US set 1)"
+rom_config = "rygar.zip.cfg"
+overlay_config = "rygar.cfg"
+overlay_image = "rygar_nono6493-ovl.png"
+rom_clones = "rygarj; rygar2; rygar3"
+system = "arcade"
