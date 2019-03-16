@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Scramble"
+rom_config = "scramble.zip.cfg"
+overlay_config = "scramble.cfg"
+overlay_image = "scramble_nono6493-ovl.png"
+rom_clones = "scrambles; scrambles2; scrambls; scramblk; scramblebf; scrambler; scrampt; scramce; scramb2; scramb3; scramblb"
+system = "arcade"
