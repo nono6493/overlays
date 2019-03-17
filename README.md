@@ -25,6 +25,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
 	* Centipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Cheeky Mouse (Universal) - Based on the original cabinet bezel.
+	* Circus Charlie (Konami) - Based on original Mame bezel created by Krakerman (see circusc.txt for details)
 	* Cosmic Guerilla (Universal) - Based on the original cabinet bezel.
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Devil Zone (Universal) - Based on the original cabinet bezel.

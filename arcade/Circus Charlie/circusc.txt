@@ -1,0 +1,4 @@
+game: Circus Charlie
+publisher: Konami
+overlay author: nono6493
+source material: Reworked from the original Mame bezel by Krakerman downloadable at http://www.rlauncher.com/forum/showthread.php?5357-Krakerman-s-quot-Arcade-Xperience-v2-quot-Project/page3
