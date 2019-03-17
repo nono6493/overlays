@@ -1,0 +1,8 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Alien Storm (World, 2 Players) (FD1094 317-0154)"
+rom_config = "dowild.zip.cfg"
+overlay_config = "dowild.cfg"
+overlay_image = "dowild_nono6493-ovl.png"
+system = "arcade"

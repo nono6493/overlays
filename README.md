@@ -52,6 +52,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Missile Command (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Moon Patrol (Williams) - Based on the original cabinet bezel.
 	* Mouse Trap (Exidy) - Based on original cabinet bezel. - Contribution from ts-x -
+	* Mr Do. Wild Ride (Universal) - Based on original Universal's flyers.
 	* Ms. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Pac-Man (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Phoenix (Centuri) - Based on original overlay created by UDb23. - Contribution from ts-x -

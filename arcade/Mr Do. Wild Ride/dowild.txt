@@ -1,0 +1,4 @@
+game: Me Do Wild Ride
+publisher: Universal
+overlay author: nono6493
+source material: Rebuilt from various elements including original Flyer.
