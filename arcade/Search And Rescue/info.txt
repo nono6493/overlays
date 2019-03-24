@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "SAR - Search And Rescue (World)"
+rom_config = "searchar.zip.cfg"
+overlay_config = "searchar.cfg"
+overlay_image = "searchar_nono6493-ovl.png"
+rom_clones = "searcharj; sercharj; searcharu; sercharu"
+system = "arcade"

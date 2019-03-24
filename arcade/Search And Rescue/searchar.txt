@@ -1,0 +1,4 @@
+game: SAR - Search And Rescue
+publisher: SNK
+overlay author: nono6493
+source material: from original overlay by AlexDC22.
