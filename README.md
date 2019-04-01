@@ -14,6 +14,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  List of overlay/games now available in this repository :
  
  	Arcade
+	* 3 Wonders (Capcom) - Based on the original cabinet bezel.
 	* Alien Storm (Sega) - Based on the original cabinet bezel.
 	* Armored Car (Stern Electronic) - Based on the original cabinet bezel.
 	* Alpine Ski (Taito) - Based on the original cabinet bezel.
