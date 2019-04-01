@@ -58,6 +58,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Mr Do. Wild Ride (Universal) - Based on original Universal's flyers.
 	* Ms. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Pac-Man (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Pang (Mitchell) - Based on the original cabinet bezel of Buster Bros (American edition of Pang).
 	* Paperboy (Atari) - Based on various elements including marquee, flyer and manual.
 	* Phoenix (Centuri) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Qix (Taito) - Based on original cabinet bezel.

@@ -1,0 +1,4 @@
+game: Pang
+publisher: Mitchell
+overlay author: nono6493
+source material: From the original Capcom arcade cabinet's bezel of Busters Bros. (American version of Pang) downloaded at http://www.arcadeartwork.org/.
