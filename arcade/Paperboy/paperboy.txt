@@ -1,0 +1,4 @@
+game: Paperboy
+publisher: Atari
+overlay author: nono6493
+source material: Rebuilt from various elements including original marquee and other overlays.

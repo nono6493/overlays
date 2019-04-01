@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Paperboy (rev 3)"
+rom_config = "paperboy.zip.cfg"
+overlay_config = "paperboy.cfg"
+overlay_image = "paperboy_nono6493-ovl.png"
+rom_clones = "paperboyr1; paperbr1; paperboyr2; paperbr2"
+system = "arcade"
