@@ -1,0 +1,4 @@
+game: Astro Blaster
+publisher: Sega / Gremlin
+overlay author: nono6493
+source material: original cabinet bezel found on https://mrdo.mameworld.info/.
