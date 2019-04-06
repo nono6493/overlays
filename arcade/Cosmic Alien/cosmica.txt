@@ -1,0 +1,4 @@
+game: Cosmic Alien
+publisher: Universal
+overlay author: nono6493
+source material: original cabinet bezel found on https://mrdo.mameworld.info/.
