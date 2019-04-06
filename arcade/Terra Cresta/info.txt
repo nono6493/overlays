@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Terra Cresta (YM3526 set 1)"
+rom_config = "terracre.zip.cfg"
+overlay_config = "terracre.cfg"
+overlay_image = "terracre_nono6493-ovl.png"
+rom_clones = "terracra;terracren;terracrb;terracreo;terracrea"
+system = "arcade"

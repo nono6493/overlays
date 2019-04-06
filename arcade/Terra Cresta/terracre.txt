@@ -1,0 +1,4 @@
+game: Terra Cresta
+publisher: Taito
+overlay author: nono6493
+source material: original overlay by AlexDC22 downloaded at https://www.flickr.com/photos/138118625@N05.
