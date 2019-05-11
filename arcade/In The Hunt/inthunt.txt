@@ -1,0 +1,4 @@
+game: In the hunt
+publisher: Irem
+overlay author: nono6493
+source material: built from original arcade flyer downloadable at https://flyers.arcade-museum.com/

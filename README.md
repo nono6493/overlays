@@ -46,6 +46,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Ghouls'n Ghosts (Capcom) - Based on the original cabinet bezel.
 	* Golden Axe (Sega) - Based on the original cabinet bezel.
 	* Gyruss (Konami) - Based on the original "Centuri" cabinet bezel.
+	* In The Hunt (Irem) - Based on the original flyer and the original arcade cabinet bezel.
 	* Ikari Warriors (SNK) - Based on the original cabinet bezel.
 	* Joust (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -

@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "In The Hunt (World)"
+rom_config = "inthunt.zip.cfg"
+overlay_config = "inthunt.cfg"
+overlay_image = "inthunt_nono6493-ovl.png"
+rom_clones = "inthuntu;kaiteids"
+system = "arcade"
