@@ -19,6 +19,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Armored Car (Stern Electronic) - Based on the original cabinet bezel.
 	* Alpine Ski (Taito) - Based on the original cabinet bezel.
 	* Altered Beast (Sega) - Based on the original cabinet bezel.
+	* Ashura Blaster (Taito) - Based on the original cabinet bezel.
 	* Astro Blaster (Sega/Gremlin) - Based on the original cabinet bezel.
 	* APB - All Points Bulletin (Atari) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
