@@ -74,6 +74,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Shinobi (Sega) - Based on the original cabinet bezel.
 	* Space Invaders (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Space Invaders, Part II (Taito) - Based on original overlay created by Krakerman. - Contribution from ts-x -
+	* Space Harrier (Sega) - Based on the original soundtrack illustration.
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlecDC22's overlay.
 	* The Electric YoYo (Taito) - Based on original overlay created by UDb23. - Contribution from ts-x -

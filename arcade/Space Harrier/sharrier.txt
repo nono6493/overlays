@@ -1,0 +1,4 @@
+game: Space Harrier
+publisher: Sega
+overlay author: nono6493
+source material: Built from the Space Harrier Soundtrack illustration.

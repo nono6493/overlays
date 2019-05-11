@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Space Harrier (Rev A, 8751 315-5163A)"
+rom_config = "sharrier.zip.cfg"
+overlay_config = "sharrier.cfg"
+overlay_image = "sharrier_nono6493-ovl.png"
+rom_clones = "sharrier1;sharrir1;sharrirb"
+system = "arcade"
