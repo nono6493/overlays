@@ -41,6 +41,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Galaga (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Galaxian (Midway) - Based on original arcade bezel, side-art and cocktail instructions card (thx to UDB23).
 	* Guerrilla War (SNK) - Based on the original cabinet bezel.
 	* Ghosts'n Goblins (Capcom) - Based on the original cabinet bezel.
 	* Ghouls'n Ghosts (Capcom) - Based on the original cabinet bezel.
