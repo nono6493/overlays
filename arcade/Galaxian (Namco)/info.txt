@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Galaxian (Namco set 1)"
+rom_config = "galaxian.zip.cfg"
+overlay_config = "galaxian.cfg"
+overlay_image = "galaxian_nono6493-ovl.png"
+rom_clones = "galaxiaj;galaxiana;galnamco"
+system = "arcade"
