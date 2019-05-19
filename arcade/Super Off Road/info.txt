@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Ironman Ivan Stewart's Super Off-Road (rev 4)"
+rom_config = "offroad.zip.cfg"
+overlay_config = "offroad.cfg"
+overlay_image = "offroad_nono6493-ovl.png"
+rom_clones = "offroad3"
+system = "arcade"
