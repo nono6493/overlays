@@ -1,4 +1,0 @@
-game: Klax
-publisher: Atari
-overlay author: ts-x, modified by nono6493
-source material: original arcade cabinet bezel.
