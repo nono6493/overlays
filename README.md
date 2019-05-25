@@ -80,6 +80,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Space Harrier (Sega) - Based on the original soundtrack illustration.
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlecDC22's overlay.
+	* Tetris (Atari) - Based on the original cabinet bezel.
 	* The Electric YoYo (Taito) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Track & Field (Konami) - Based on original Konami's flyer.
 	* Up'n Down (Sega) - Based on original cabinet bezel.

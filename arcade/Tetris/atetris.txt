@@ -1,0 +1,4 @@
+game: Tetris
+publisher: Atari
+overlay author: nono6493
+source material: original original cabinet bezel found at http://www.arcadeartwork.org.
