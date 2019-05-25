@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Klax (version 6)"
+rom_config = "klax.zip.cfg"
+overlay_config = "klax.cfg"
+overlay_image = "klax_ts-x-ovl.png"
+rom_clones = "klaxd2;klaxd;klaxj3;klaxj4;klaxj;klaxp1;klaxp2;klax2bl;klax2;klax3klax4;klax5;"
+system = "arcade"
