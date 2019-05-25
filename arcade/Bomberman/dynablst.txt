@@ -1,0 +1,4 @@
+game: Bomberban (Dynablaster)
+publisher: Irem
+overlay author: nono6493
+source material: original cabinet instruction cards found at http://www.progettosnaps.net.

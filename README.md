@@ -23,6 +23,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Astro Blaster (Sega/Gremlin) - Based on the original cabinet bezel.
 	* APB - All Points Bulletin (Atari) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Bomberman (Irem) - Original including elements from the instruction cards.
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.

@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Dynablaster / Bomber Man"
+rom_config = "dynablst.zip.cfg"
+overlay_config = "dynablst.cfg"
+overlay_image = "dynablst_nono6493-ovl.png"
+rom_clones = "bombrman;dynablstb;dynablstb2;dynablstb3"
+system = "arcade"
