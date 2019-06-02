@@ -1,0 +1,4 @@
+game: Congo Bongo
+publisher: Sega
+overlay author: nono6493
+source material: based on original cabinet bezel downloaded at https://arcadeartworks.org/.

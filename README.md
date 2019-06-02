@@ -32,6 +32,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Cheeky Mouse (Universal) - Based on the original cabinet bezel.
 	* Circus Charlie (Konami) - Based on original Mame bezel created by Krakerman (see circusc.txt for details)
 	* Clowns (Midway) - Based on original cabinet bezel.
+	* Congo Bongo (Sega) - Based on the original cabinet bezel.
 	* Cosmic Alien (Universal) - Based on the original cabinet bezel.
 	* Cosmic Guerilla (Universal) - Based on the original cabinet bezel.
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
