@@ -1,4 +1,0 @@
-game: The Electric YoYo
-publisher: Taito
-overlay author: UDb23, modified by ts-x
-source material: original overlay created by UDb23
