@@ -1,0 +1,4 @@
+game: Anteater
+publisher: Tago
+overlay author: nono6493
+source material: based on original cabinet marquee and on the overlay made by krakerman for Arcade Xperience project downloadable at https://emumovies.com/.
