@@ -82,9 +82,9 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Space Invaders, Part II (Taito) - Based on original overlay created by Krakerman. - Contribution from ts-x -
 	* Space Harrier (Sega) - Based on the original soundtrack illustration.
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
-	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlecDC22's overlay.
+	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlexDC22's overlay.
 	* Tetris (Atari) - Based on the original cabinet bezel.
-	* The Electric YoYo (Taito) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* The Electric YoYo (Taito) - Based on original cabinet besel restored by Comboman.
 	* Track & Field (Konami) - Based on original Konami's flyer.
 	* Up'n Down (Sega) - Based on original cabinet bezel.
 	
@@ -96,7 +96,10 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	Atari 7800
 	* Asteroids (Atari) - Original overlay created by UDb23. - Contribution from ts-x -
 	* Food Fight (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
-	
+
+Creators : nono6493, udb23
 Contributors : ts-x
+Source material creator : Comboman, udb23, Krakerman, AlexDC22 ...
+
 
 More to come soon ...

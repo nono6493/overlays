@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "The Electric Yo-Yo (set 1)"
+rom_config = "elecyoyo.zip.cfg"
+overlay_config = "elecyoyo.cfg"
+overlay_image = "elecyoyo_nono6493-ovl.png"
+rom_clones = "elecyoy2;elecyoyo2"
+system = "arcade"

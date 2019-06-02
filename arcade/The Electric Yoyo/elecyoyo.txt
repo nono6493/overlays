@@ -1,0 +1,4 @@
+game: The Electric YoYo
+publisher: Taito
+overlay author: nono6493
+source material: Based on the original arcade bezel restored by Comboman and downloaded at http://mrdo.mameworld.com
