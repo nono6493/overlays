@@ -1,0 +1,4 @@
+game: Cadillacs and Dinosaurs
+publisher: Capcom 
+overlay author: nono6493
+source material: Built from various illustrations by Mark Schultz.

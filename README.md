@@ -26,6 +26,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Bomberman (Irem) - Original including elements from the instruction cards.
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
+	* Cadillac and Dinosaurs (Capcom) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
 	* Centipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
