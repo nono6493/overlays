@@ -1,0 +1,4 @@
+game: Bad Dudes vs Dragon Ninja
+publisher: Data east
+overlay author: nono6493
+source material: original arcade cabinet's bezel downloaded at http://www.arcadeartwork.org/

@@ -23,6 +23,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Ashura Blaster (Taito) - Based on the original cabinet bezel.
 	* Astro Blaster (Sega/Gremlin) - Based on the original cabinet bezel.
 	* APB - All Points Bulletin (Atari) - Based on the original cabinet bezel.
+	* Bad Dudes vs Dragon Ninja (Data East) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Bomberman (Irem) - Original including elements from the instruction cards.
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
