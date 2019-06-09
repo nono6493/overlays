@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Toki (World, set 1)"
+rom_config = "toki.zip.cfg"
+overlay_config = "toki.cfg"
+overlay_image = "toki_nono6493-ovl.png"
+rom_clones = "tokib;toki2;toki3;tokiu;tokiua;tokia"
+system = "arcade"

@@ -85,6 +85,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlexDC22's overlay.
 	* Tetris (Atari) - Based on the original cabinet bezel.
 	* The Electric YoYo (Taito) - Based on original cabinet besel restored by Comboman.
+	* Toki (Tad Corporation) - Based on bezel found at "This is old Game" (https://www.thisoldgame.com/)
 	* Track & Field (Konami) - Based on original Konami's flyer.
 	* Up'n Down (Sega) - Based on original cabinet bezel.
 	
