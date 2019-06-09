@@ -1,6 +1,6 @@
 # overlays
 
-This is a repository of unified overlays to use with Retroarch (incl. Retropie, Recalbox, Batocera) or Mame / Final Burn Alpha. Most of them are inspired by the work of artists like UDb23, Stuart2773, Wiltur or Krakerman. I like there work, but sometimes it was not exactly what I was expecting. I have reworked some of their overlays, but I have also created some original ones and I want to share them now. If you like, feel free to download them.  
+This is a repository of unified overlays to use with Retroarch (incl. Retropie, Recalbox, Batocera) or Mame / Final Burn Neo. Most of them are inspired by the work of artists like UDb23, Stuart2773, Wiltur or Krakerman. I like there work, but sometimes it was not exactly what I was expecting. I have reworked some of their overlays, but I have also created some original ones and I want to share them now. If you like, feel free to download them.  
 
 If you want to contribute, you are welcome. But because they are "unified", to be published here the overlays must respect few rules :
 
