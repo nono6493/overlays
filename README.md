@@ -1,12 +1,12 @@
 # overlays
 
-This is a repository of unified overlays to use with Retroarch (incl. Retropie, Recalbox, Batocera) or Mame / Final Burn Neo. Most of them are inspired by the work of artists like UDb23, Stuart2773, Wiltur or Krakerman. I like there work, but sometimes it was not exactly what I was expecting. I have reworked some of their overlays, but I have also created some original ones and I want to share them now. If you like, feel free to download them.  
+This is a repository of unified overlays to use with Retroarch (incl. Retropie, Recalbox, Batocera) or Mame / Final Burn Neo. Most of them are inspired by the work of artists like UDb23, Stuart2773, Wiltur or Krakerman. I like their work, but sometimes it was not exactly what I was expecting. I reworked some of their overlays, but I have also created some original ones and I want to share them. If you like, feel free to download them.  
 
 If you want to contribute, you are welcome. But because they are "unified", to be published here the overlays must respect few rules :
 
 	* No screen bezel around the game.
 	* The game must use the full height of the screen.
-	* The overlay preserve the original aspect ratio of the game (4:3 for most horizontal games, 3:4 for most vertical games and few 4:1 (triple screens) or 8:3 (double screens games)
+	* The overlay preserve the original aspect ratio of the game (most of the time 4:3 or 3:4)
 	* A standard border is placed between the game and the overlay's graphics.
 	* Graphic elements may slightly exceed on the playing surface.
 	* A seperated file must tell where to find the source material and credit the orginal authors if the overlay is a reworked one.
