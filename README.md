@@ -37,6 +37,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Congo Bongo (Sega) - Based on the original cabinet bezel.
 	* Cosmic Alien (Universal) - Based on the original cabinet bezel.
 	* Cosmic Guerilla (Universal) - Based on the original cabinet bezel.
+	* Crash (Exidy) - Based on original cabinet bezel.
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Devil Zone (Universal) - Based on the original cabinet bezel.
 	* Dig Dug (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -

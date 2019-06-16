@@ -1,0 +1,4 @@
+game: Crach
+publisher: Exidy
+overlay author: nono6493
+source material: Created from original cabinet bezel restored by Comboman and downloaded at http://www.mameworld.info
