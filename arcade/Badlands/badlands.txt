@@ -1,0 +1,4 @@
+game: Badlands
+publisher: Atari
+overlay author: nono6493
+source material: Inspired by original cabinet bezel downloaded at http://www.progettosnaps.net
