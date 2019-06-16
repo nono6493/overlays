@@ -1,0 +1,4 @@
+game: Spy Hunter
+publisher: Midway
+overlay author: nono6493
+source material: original cabinet bezel found at http://mrdo.mameworld.info/.

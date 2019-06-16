@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Spy Hunter"
+rom_config = "spyhunt.zip.cfg"
+overlay_config = "spyhunt.cfg"
+overlay_image = "spyhunt_nono6493-ovl.png"
+rom_clones = "spyhuntp;spyhuntsp;spyhuntpr"
+system = "arcade"
