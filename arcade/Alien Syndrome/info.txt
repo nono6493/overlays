@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Alien Syndrome (set 4, System 16B, unprotected)"
+rom_config = "aliensyn.zip.cfg"
+overlay_config = "aliensyn.cfg"
+overlay_image = "aliensyn_nono6493-ovl.png"
+rom_clones = "aliensynjo;aliensy1;aliensyn1;aliensy2;aliensyn2;aliensyb;aliensy3;aliensyn3;aliensyj;aliensya;aliensy5;aliensyn5;aliensynj;aliensyn7"
+system = "arcade"

@@ -1,0 +1,4 @@
+game: Alien Syndrome
+publisher: Sega
+overlay author: nono6493
+source material: original cabinet's bezel downloaded at http://www.progettosnaps.net/
