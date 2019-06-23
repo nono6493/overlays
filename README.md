@@ -61,6 +61,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Joust (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jungle King (Taito) - Based on the original cabinet bezel.
+	* Karnov (Data East) - Based on the original cabinet bezel.
 	* Klax (Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
 	* Led Storm (Capcom) - Original including some elements from cabinet bezel.
 	* Marble Madness (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
