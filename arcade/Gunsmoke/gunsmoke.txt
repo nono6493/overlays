@@ -1,0 +1,4 @@
+game: Gunsmoke
+publisher: Capcom
+overlay author: nono6493
+source material: original marquee found on http://www.arcadeartwork.org/.
