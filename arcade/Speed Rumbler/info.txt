@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "The Speed Rumbler (set 1)"
+rom_config = "srumbler.zip.cfg"
+overlay_config = "srumbler.cfg"
+overlay_image = "srumbler_nono6493-ovl.png"
+rom_clones = "srumbler2;srumblr2;srumbler3"
+system = "arcade"
