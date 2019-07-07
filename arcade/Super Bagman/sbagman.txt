@@ -1,0 +1,4 @@
+game: Super Bagman
+publisher: Valodon Automation / Stern Seeburg
+overlay author: nono6493
+source material: Based on an original overlay created by Krakerman and downloaded at https://emumovies.com/.

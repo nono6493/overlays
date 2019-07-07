@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Super Bagman"
+rom_config = "sbagman.zip.cfg"
+overlay_config = "sbagman.cfg"
+overlay_image = "sbagman_nono6493-ovl.png"
+rom_clones = "sbagmans;sbagmani"
+system = "arcade"
