@@ -110,9 +110,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Asteroids (Atari) - Original overlay created by UDb23. - Contribution from ts-x -
 	* Food Fight (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 
-Creators : nono6493, udb23
-Contributors : ts-x
-Source material creator : Comboman, udb23, Krakerman, AlexDC22 ...
-
-
-More to come soon ...
+# Creators and contributors
+__Creators :__ nono6493, udb23  
+__Contributors :__ ts-x  
+__Source material creator :__ Comboman, udb23, Krakerman, AlexDC22 ...  
