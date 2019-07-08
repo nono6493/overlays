@@ -116,7 +116,7 @@ __Contributors :__ ts-x
 __Source material creator :__ Comboman, udb23, Krakerman, AlexDC22 ...  
 
 # Retropie users
-For an easy installation, use the rpie-art script tool from Meleu and select "nono6493 overlay repository". Most arcade overlays are available through this tool, and new ones are added every week.
+For an easy installation, use the [rpie-art script tool](https://github.com/meleu/rpie-art "Github meleu/rpie-art") from Meleu and select "nono6493 overlay repository". Most arcade overlays are available through this tool, and new ones are added every week.
 
 # Recalbox / Batocera users
 All those overlays can be used with those systems. Config files can be used without any change. Refer to the documentation of your system to know how to install new overlays.  
