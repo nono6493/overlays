@@ -120,4 +120,4 @@ For an easy installation, use the rpie-art script tool from Meleu and select "no
 
 # Recalbox / Batocera users
 All those overlays can be used with those systems. Config files can be used without any change. Refer to the documentation of your system to know how to install new overlays.  
-__Documentation for Recalbox__: [Recalbox - RetroArch overlay setup](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(EN) "Retroarch setup overlays (English)") - [Recalbox - RetroArch overlay setup](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR) "(Français)")
+__Documentation for Recalbox__: [Retroarch setup overlays (English)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(EN) "Retroarch setup overlays (English)") - [(Français)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR) "Retroarch setup overlays (Français)")
