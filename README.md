@@ -1,4 +1,4 @@
-# overlays
+# Overlays
 
 This is a repository of unified overlays to use with Retroarch (incl. Retropie, Recalbox, Batocera) or Mame / Final Burn Neo. Most of them are inspired by the work of artists like UDb23, Stuart2773, Wiltur or Krakerman. I like their work, but sometimes it was not exactly what I was expecting. I reworked some of their overlays, but I have also created some original ones and I want to share them. If you like, feel free to download them.  
 
@@ -114,3 +114,10 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 __Creators :__ nono6493, udb23  
 __Contributors :__ ts-x  
 __Source material creator :__ Comboman, udb23, Krakerman, AlexDC22 ...  
+
+# Retropie users
+For an easy installation, use the rpie-art script tool from Meleu and select "nono6493 overlay repository". Most arcade overlays are available through this tool, and new ones are added every week.
+
+# Recalbox / Batocera users
+All those overlays can be used with those systems. Config files can be used without any change. Refer to the documentation of your system to know how to install new overlays.  
+__Documentation for Recalbox__: [Recalbox - RetroArch overlay setup](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(EN) "Retroarch setup overlays (English)") - [Recalbox - RetroArch overlay setup](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR) "(Français)")
