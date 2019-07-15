@@ -62,6 +62,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Ikari Warriors (SNK) - Based on the original cabinet bezel.
 	* Joust (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Jr. Pac-Man (Bally Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Jungle Hunt (Taito) - Based on the original cabinet bezel.
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Karnov (Data East) - Based on the original cabinet bezel.
 	* Klax (Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
@@ -120,4 +121,4 @@ For an easy installation, use the [rpie-art script tool](https://github.com/mele
 
 # Recalbox / Batocera users
 All those overlays can be used with those systems. Config files can be used without any change. Refer to the documentation of your system to know how to install new overlays.  
-__Documentation for Recalbox__: [Retroarch setup overlays (English)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(EN) "Retroarch setup overlays (English)") - [(Français)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR) "Retroarch setup overlays (Français)")
+__Documentation for Recalbox__: [Retroarch setup overlays (English)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(EN) "Retroarch setup overlays (English)") - [(FranÃ§ais)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR) "Retroarch setup overlays (FranÃ§ais)")
