@@ -101,6 +101,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Toki (Tad Corporation) - Based on bezel found at "This is old Game" (https://www.thisoldgame.com/)
 	* Track & Field (Konami) - Based on original Konami's flyer.
 	* Up'n Down (Sega) - Based on original cabinet bezel.
+	* Wild Western (Taito) - Based on the original cabinet bezel.
 	
 	Atari 2600
 	* Pengo (Sega/Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
