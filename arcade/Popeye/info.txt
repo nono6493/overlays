@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Popeye (revision D)"
+rom_config = "popeye.zip.cfg"
+overlay_config = "popeye.cfg"
+overlay_image = "popeye_nono6493-ovl.png"
+rom_clones = "popeyebl;popeyeb2;popeyeb3;popeyehs;popeyejo;popeyej;popeyeu;popeyef;popeye2"
+system = "arcade"
