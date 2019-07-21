@@ -1,0 +1,4 @@
+game: Mario Bros.
+publisher: Nintendo
+overlay author: nono6493
+source material: original cabinet bezel found on http://www.arcadeartwork.org/.

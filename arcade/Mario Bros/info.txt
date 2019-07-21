@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Mario Bros. (US, Revision G)"
+rom_config = "mario.zip.cfg"
+overlay_config = "mario.cfg"
+overlay_image = "mario_nono6493-ovl.png"
+rom_clones = "mariobl;mariobla;marioj;mariojp;marioe;mariof;marioo"
+system = "arcade"
