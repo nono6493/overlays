@@ -1,0 +1,4 @@
+game: Mappy
+publisher: Namco
+overlay author: nono6493
+source material: original cabinet bezel found on http://www.arcadeartwork.org/.
