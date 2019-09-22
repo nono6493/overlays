@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Clash-Road"
+rom_config = "clshroad.zip.cfg"
+overlay_config = "clshroad.cfg"
+overlay_image = "clshroad_nono6493-ovl.png"
+rom_clones = "clshroadd;clshrdst;clshroads"
+system = "arcade"

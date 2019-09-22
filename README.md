@@ -35,6 +35,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Centipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Cheeky Mouse (Universal) - Based on the original cabinet bezel.
 	* Circus Charlie (Konami) - Based on original Mame bezel created by Krakerman (see circusc.txt for details)
+	* Clash-Road (Woodplace Inc.) - Based on original cabinet bezel.
 	* Clowns (Midway) - Based on original cabinet bezel.
 	* Congo Bongo (Sega) - Based on the original cabinet bezel.
 	* Cosmic Alien (Universal) - Based on the original cabinet bezel.
