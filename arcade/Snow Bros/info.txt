@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Snow Bros. - Nick & Tom (set 1)"
+rom_config = "snowbros.zip.cfg"
+overlay_config = "snowbros.cfg"
+overlay_image = "snowbros_nono6493-ovl.png"
+rom_clones = "snowbrod;snowbrosd;snowbroj;snowbrosj;snowbroa;snowbrosa;snowbrob;snowbrosb;snowbroc;snowbrosc;snowbroswb"
+system = "arcade"
