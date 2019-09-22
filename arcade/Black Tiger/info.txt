@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Black Tiger"
+rom_config = "blktiger.zip.cfg"
+overlay_config = "blktiger.cfg"
+overlay_image = "blktiger_nono6493-ovl.png"
+rom_clones = "bktigrb1;blktigerb1;bktigrb2;blktigerb2;bktigerb;blktigera;blktigerb3"
+system = "arcade"

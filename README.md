@@ -26,6 +26,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* APB - All Points Bulletin (Atari) - Based on the original cabinet bezel.
 	* Bad Dudes vs Dragon Ninja (Data East) - Based on the original cabinet bezel.
 	* Bad Lands (Atari) - Based on the original cabinet bezel.
+	* Black Tiger (Capcom) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Bomberman (Irem) - Original including elements from the instruction cards.
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
