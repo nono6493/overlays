@@ -93,6 +93,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Scramble (Stern Electronic) - Original including some elements from cabinet bezel.
 	* Shadow Dancer (Sega) - Based on the original cabinet bezel.
 	* Shinobi (Sega) - Based on the original cabinet bezel.
+	* Side Arms - Hyper Dyne (Capcom) - Based on the original cabinet bezel.
 	* Side Trak (Exidy) - Based on the original cabinet bezel.
 	* Snow Bros - Nick & Tom (Taoplan) - Based on the original cabinet bezel.
 	* Space Dungeon (Taito) - Based on the original cabinet bezel.

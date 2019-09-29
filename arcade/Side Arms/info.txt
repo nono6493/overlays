@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Side Arms - Hyper Dyne (World, 861129)"
+rom_config = "sidearms.zip.cfg"
+overlay_config = "sidearms.cfg"
+overlay_image = "sidearms_nono6493-ovl.png"
+rom_clones = "sidearmsj;sidearjp;sidearmsur1;sidearmsu;sidearmr;sidearmsr"
+system = "arcade"
