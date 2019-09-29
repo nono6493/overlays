@@ -85,6 +85,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Paperboy (Atari) - Based on various elements including marquee, flyer and manual.
 	* Phoenix (Centuri) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Popeye (Nintendo) - Based on original cabinet bezel.
+	* Psycho Soldier (SNK) - Based on original cabinet bezel.
 	* Qix (Taito) - Based on original cabinet bezel.
 	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on the original cabinet bezel.
