@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Superman (World)"
+rom_config = "superman.zip.cfg"
+overlay_config = "superman.cfg"
+overlay_image = "superman_nono6493-ovl.png"
+rom_clones = "supermanj;suprmanj;supermanu"
+system = "arcade"

@@ -103,6 +103,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Spy Hunter (Atari) - Based on the original cabinet bezel.
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Super Bagman (Valodon Automation / Stern Electronic) - Based on an original overlay created by Krakerman
+	* Superman (Taito) - Based on the original cabinet bezel.
 	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlexDC22's overlay.
 	* Tetris (Atari) - Based on the original cabinet bezel.
 	* The Electric YoYo (Taito) - Based on original cabinet besel restored by Comboman.
