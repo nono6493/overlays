@@ -15,6 +15,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
  
  	Arcade
 	* 3 Wonders (Capcom) - Based on the original cabinet bezel.
+	* Airwolf (Kyugo) - Based on the original cabinet bezel.
 	* Alien Storm (Sega) - Based on the original cabinet bezel.
 	* Alien Syndrome (Sega) - Based on the original cabinet bezel.
 	* Anteater (Tago) - Original includin elements from the cabinet marquee.
