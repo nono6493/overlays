@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Ajax"
+rom_config = "ajax.zip.cfg"
+overlay_config = "ajax.cfg"
+overlay_image = "ajax_nono6493-ovl.png"
+rom_clones = "ajaxj"
+system = "arcade"

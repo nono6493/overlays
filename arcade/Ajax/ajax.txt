@@ -1,0 +1,4 @@
+game: Ajax
+publisher: Konami
+overlay author: nono6493
+source material: adapted from Krakerman's overlay downloaded at https://www.rlauncher.com
