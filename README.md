@@ -102,6 +102,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Space Invaders (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Space Invaders, Part II (Taito) - Based on original overlay created by Krakerman. - Contribution from ts-x -
 	* Space Harrier (Sega) - Based on the original soundtrack illustration.
+	* Space Panic (Universal) - Based on the original cabinet bezel.
 	* Spy Hunter (Atari) - Based on the original cabinet bezel.
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Super Bagman (Valodon Automation / Stern Electronic) - Based on an original overlay created by Krakerman
