@@ -1,0 +1,4 @@
+game: Aliens
+publisher: Konami
+overlay author: udb23, nono6493
+source material: Original overlay from udb23 "enhanced" by nono6493.

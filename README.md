@@ -21,6 +21,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Alien Syndrome (Sega) - Based on the original cabinet bezel.
 	* Anteater (Tago) - Original includin elements from the cabinet marquee.
 	* Armored Car (Stern Electronic) - Based on the original cabinet bezel.
+	* Aliens (Konami) - Modified from the original overlay by udb23.
 	* Alpine Ski (Taito) - Based on the original cabinet bezel.
 	* Altered Beast (Sega) - Based on the original cabinet bezel.
 	* Ashura Blaster (Taito) - Based on the original cabinet bezel.
