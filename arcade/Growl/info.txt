@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Growl (World, Rev 1)"
+rom_config = "growl.zip.cfg"
+overlay_config = "growl.cfg"
+overlay_image = "growl_nono6493-ovl.png"
+rom_clones = "growlu;growlp;growla"
+system = "arcade"

@@ -59,6 +59,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Ghosts'n Goblins (Capcom) - Based on the original cabinet bezel.
 	* Ghouls'n Ghosts (Capcom) - Based on the original cabinet bezel.
 	* Golden Axe (Sega) - Based on the original cabinet bezel.
+	* Growl (Taito) - Based on the original cabinet bezel.
 	* Guerrilla War (SNK) - Based on the original cabinet bezel.
 	* Gun.Smoke (Capcom) - Based on the original cabinet marquee.
 	* Gyruss (Konami) - Based on the original "Centuri" cabinet bezel.
