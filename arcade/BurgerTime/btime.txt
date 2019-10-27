@@ -1,0 +1,4 @@
+game: Burger Time
+publisher: Data East / Bally Midway
+overlay author: nono6493
+source material: original cabinet's bezel downloaded at https://www.arcadeartwork.org/
