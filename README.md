@@ -51,6 +51,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Donkey Kong Jr. (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
+	* Eight Ball Action (Seatongrove Ltd) - Original including some elements from cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Galaga (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -

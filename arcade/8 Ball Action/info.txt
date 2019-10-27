@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Eight Ball Action (DK conversion)"
+rom_config = "8ballact.zip.cfg"
+overlay_config = "8ballact.cfg"
+overlay_image = "8ballact_nono6493-ovl.png"
+rom_clones = "8ballact2;8ballat2;8bpm"
+system = "arcade"
