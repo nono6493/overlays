@@ -31,6 +31,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Bad Lands (Atari) - Based on the original cabinet bezel.
 	* Black Tiger (Capcom) - Based on the original cabinet bezel.
 	* Black Widow (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Blue Print (Bally Midway) - Based on the original cabinet bezel.
 	* Bomberman (Irem) - Original including elements from the instruction cards.
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
 	* Cadillac and Dinosaurs (Capcom) - Based on the original cabinet bezel.
