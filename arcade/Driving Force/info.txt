@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Driving Force (Pac-Man conversion)"
+rom_config = "drivfrcp.zip.cfg"
+overlay_config = "drivfrcp.cfg"
+overlay_image = "drivfrcp_nono6493-ovl.png"
+rom_clones = "drivfrcb;drivfrcsg;drivfrcg;drivfrct"
+system = "arcade"

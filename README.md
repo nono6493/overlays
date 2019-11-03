@@ -48,13 +48,14 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Congo Bongo (Sega) - Based on the original cabinet bezel.
 	* Cosmic Alien (Universal) - Based on the original cabinet bezel.
 	* Cosmic Guerilla (Universal) - Based on the original cabinet bezel.
-	* Crash (Exidy) - Based on original cabinet bezel.
+	* Crash (Exidy) - Based on the original cabinet bezel.
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Devil Zone (Universal) - Based on the original cabinet bezel.
 	* Dig Dug (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Donkey Kong Jr. (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
+	* Driving Force (Shinkai Inc. - Magic Electronics Inc. license) - Based on the original cabinet bezel.
 	* Eight Ball Action (Seatongrove Ltd) - Original including some elements from cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
