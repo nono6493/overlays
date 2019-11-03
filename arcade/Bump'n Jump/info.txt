@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Bump 'n' Jump"
+rom_config = "bnj.zip.cfg"
+overlay_config = "bnj.cfg"
+overlay_image = "bnj_nono6493-ovl.png"
+rom_clones = "bnjm;caractn;caractn2"
+system = "arcade"

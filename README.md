@@ -35,6 +35,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Blue Print (Bally Midway) - Based on the original cabinet bezel.
 	* Bomberman (Irem) - Original including elements from the instruction cards.
 	* Bubble Bobble (Taito) - Based on the original cabinet bezel.
+	* Bump'n'Jump (Data East / Bally Midway) - Based on the original Bally Midway cabinet bezel.
 	* Burger Time (Data East - Bally Midway) - Based on the original cabinet bezel.
 	* Cadillac and Dinosaurs (Capcom) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
