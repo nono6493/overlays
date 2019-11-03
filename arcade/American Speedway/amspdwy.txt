@@ -1,0 +1,4 @@
+game: American Speedway
+publisher: Enerdyne Technologies Inc.
+overlay author: nono6493
+source material: original cabinet's bezel downloaded at https://www.arcadeartwork.org/

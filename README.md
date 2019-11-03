@@ -19,6 +19,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Airwolf (Kyugo) - Based on the original cabinet bezel.
 	* Alien Storm (Sega) - Based on the original cabinet bezel.
 	* Alien Syndrome (Sega) - Based on the original cabinet bezel.
+	* American Speedway (Enerdyne Technologies Inc.) - Based on the original cabinet bezel.
 	* Anteater (Tago) - Original includin elements from the cabinet marquee.
 	* Armored Car (Stern Electronic) - Based on the original cabinet bezel.
 	* Aliens (Konami) - Modified from the original overlay by udb23.
