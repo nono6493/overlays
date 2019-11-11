@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Elevator Action (5 pcb version, 1.1)"
+rom_config = "elevator.zip.cfg"
+overlay_config = "elevator.cfg"
+overlay_image = "elevator_nono6493-ovl.png"
+rom_clones = "elevator4;elevatob;elevatorb"
+system = "arcade"

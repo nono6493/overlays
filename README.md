@@ -58,6 +58,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
 	* Driving Force (Shinkai Inc. - Magic Electronics Inc. license) - Based on the original cabinet bezel.
 	* Eight Ball Action (Seatongrove Ltd) - Original including some elements from cabinet bezel.
+	* Elevator Action (Taito) - Based on the original cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Galaga (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
