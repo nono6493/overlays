@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Crystal Castles (version 4)"
+rom_config = "ccastles.zip.cfg"
+overlay_config = "ccastles.cfg"
+overlay_image = "ccastles_nono6493-ovl.png"
+rom_clones = "ccastlej;ccastlesj;ccastle1;ccastles1;ccastle2;ccastles2;ccastlef;ccastlesf;ccastleg;ccastlesg;ccastlep;ccastlesp;ccastle3;ccastles3"
+system = "arcade"
