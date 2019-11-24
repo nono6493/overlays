@@ -1,0 +1,4 @@
+game: Sinistar
+publisher: Williams
+overlay author: nono6493
+source material: Original cabinet bezel found on http://mrdo.mameworld.info/

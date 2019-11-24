@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Sinistar (revision 3)"
+rom_config = "sinistar.zip.cfg"
+overlay_config = "sinistar.cfg"
+overlay_image = "sinistar_nono6493-ovl.png"
+rom_clones = "sinista1; sinistar1; sinista2; sinistar2"
+system = "arcade"

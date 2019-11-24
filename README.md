@@ -111,6 +111,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Shinobi (Sega) - Based on the original cabinet bezel.
 	* Side Arms - Hyper Dyne (Capcom) - Based on the original cabinet bezel.
 	* Side Trak (Exidy) - Based on the original cabinet bezel.
+	* Sinistar (Williams) - Based on the original cabinet bezel.
 	* Snow Bros - Nick & Tom (Taoplan) - Based on the original cabinet bezel.
 	* Space Dungeon (Taito) - Based on the original cabinet bezel.
 	* Space Invaders (Midway) - Based on original overlay created by UDb23. - Contribution from ts-x -
