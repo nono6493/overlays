@@ -1,0 +1,4 @@
+game: Darius
+publisher: Taito
+overlay author: nono6493
+source material: original cabinet's artworks downloaded at https://www.arcadeartwork.org/

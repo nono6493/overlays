@@ -51,6 +51,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Crash (Exidy) - Based on the original cabinet bezel.
 	* Crazy Climber (Nichibutsu) - Based on the original cabinet bezel.
 	* Crystal Castles (Atari) - Based on the original cabinet bezel.
+	* Darius (Taito) - Based on the original cabinet artworks.
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Devil Zone (Universal) - Based on the original cabinet bezel.
 	* Dig Dug (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
