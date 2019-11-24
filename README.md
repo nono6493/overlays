@@ -104,6 +104,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Rampage (Bally Midway) - Based on original cabinet bezel.
 	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on the original cabinet bezel.
+	* Salamander (Konami) - Based on the original cabinet bezel.
 	* SAR - Search And Rescue (SNK) - Modified from original AlexCD22's overlay.
 	* Scramble (Stern Electronic) - Original including some elements from cabinet bezel.
 	* Shadow Dancer (Sega) - Based on the original cabinet bezel.

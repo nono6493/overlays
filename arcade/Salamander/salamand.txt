@@ -1,0 +1,4 @@
+game: Salamander
+publisher: Konami
+overlay author: alexDC22, nono6493
+source material: original overlay from alexDC22 downloaded at https://www.flickr.com/photos/138118625@N05/albums/72157661653786195
