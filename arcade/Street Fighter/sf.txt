@@ -1,0 +1,4 @@
+game: Street Fighter
+publisher: Capcom
+overlay author: nono6493
+source material: original cabinet's bezel and original cabinet's marquee downloaded at http://www.progettosnaps.net/

@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Street Fighter (US, set 1)"
+rom_config = "sf.zip.cfg"
+overlay_config = "sf.cfg"
+overlay_image = "sf_nono6493-ovl.png"
+rom_clones = "sfjp;sfjan;sfj;sfu;sfua;sfus;sfan;sfw;sf1"
+system = "arcade"
