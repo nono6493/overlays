@@ -122,6 +122,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Street Fighter (Capcom) - Based on the original cabinet bezel and the original cabinet marquee.
 	* Street Fighter II (Capcom) - Based on the original cabinet bezel.
+	* Street Fighter II' Champion Edition (Capcom) - Based on the original cabinet bezel.
 	* Super Bagman (Valodon Automation / Stern Electronic) - Based on an original overlay created by Krakerman
 	* Superman (Taito) - Based on the original cabinet bezel.
 	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlexDC22's overlay.

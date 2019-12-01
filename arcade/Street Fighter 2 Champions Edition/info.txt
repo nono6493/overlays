@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Street Fighter II': Champion Edition (World 920513)"
+rom_config = "sf2ce.zip.cfg"
+overlay_config = "sf2ce.cfg"
+overlay_image = "sf2ce_nono6493-ovl.png"
+rom_clones = "sf2cea;sf2ceja;sf2cej;sf2cejb;sf2cejc;sf2ceua;sf2ceub;sf2ceud;sf2ceuc;sf2ceea"
+system = "arcade"
