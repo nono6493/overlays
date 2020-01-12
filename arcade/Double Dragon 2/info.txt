@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Double Dragon II - The Revenge (World)"
+rom_config = "ddragon2.zip.cfg"
+overlay_config = "ddragon2.cfg"
+overlay_image = "ddragon2_nono6493-ovl.png"
+rom_clones = "ddragon2j;ddragon2b;ddragn2u;ddragon2u"
+system = "arcade"

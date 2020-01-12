@@ -58,6 +58,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Donkey Kong Jr. (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
+	* Double Dragon II (Technos) - Based on the original cabinet bezel.
 	* Driving Force (Shinkai Inc. - Magic Electronics Inc. license) - Based on the original cabinet bezel.
 	* Eight Ball Action (Seatongrove Ltd) - Original including some elements from cabinet bezel.
 	* Elevator Action (Taito) - Based on the original cabinet bezel.
