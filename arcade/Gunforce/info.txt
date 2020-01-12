@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Gunforce - Battle Fire Engulfed Terror Island (World)"
+rom_config = "gunforce.zip.cfg"
+overlay_config = "gunforce.cfg"
+overlay_image = "gunforce_nono6493-ovl.png"
+rom_clones = "gunforcej;gunforcj;gunforceu;gunforcu"
+system = "arcade"

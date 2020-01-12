@@ -1,0 +1,4 @@
+game: Gunforce
+publisher: Irem Corp.
+overlay author: nono6493
+source material: original cabinet's bezel, original cabinet CPO and more downloaded on various web sites.
