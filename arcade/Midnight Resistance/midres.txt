@@ -1,0 +1,4 @@
+game: Midnight Resistance
+publisher: Data East.
+overlay author: nono6493
+source material: original cabinet's bezel downloaded at https://www.arcadeartwork.org/

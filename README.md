@@ -88,6 +88,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Mappy (Namco) - Based on the original cabinet bezel.
 	* Marble Madness (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Mario Bros (Nintendo) - Based on the original cabinet bezel.
+	* Midnight Resistance (Data East) - Based on the original cabinet bezel.
 	* Mikie (Konami) - Based on the original Century's flyer.
 	* Millipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Missile Command (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -

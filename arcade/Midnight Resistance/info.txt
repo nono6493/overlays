@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Midnight Resistance (World)"
+rom_config = "midres.zip.cfg"
+overlay_config = "midres.cfg"
+overlay_image = "midres_nono6493-ovl.png"
+rom_clones = "midresb;midresj;midresbj;midresu"
+system = "arcade"
