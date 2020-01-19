@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Mouse Trap (version 5)"
+rom_config = "mtrap.zip.cfg"
+overlay_config = "mtrap.cfg"
+overlay_image = "mtrap_nono6493-ovl.png"
+rom_clones = "mtrapb;mtrap2;mtrap3;mtrapb2;mtrap4"
+system = "arcade"
