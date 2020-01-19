@@ -84,6 +84,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Jungle Hunt (Taito) - Based on the original cabinet bezel.
 	* Jungle King (Taito) - Based on the original cabinet bezel.
 	* Karnov (Data East) - Based on the original cabinet bezel.
+	* King and Balloon (Namco) - Based on the original cabinet bezel.
 	* Klax (Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
 	* Lady Bug (Universal) - Based on the original cabinet bezel.
 	* Led Storm (Capcom) - Original including some elements from cabinet bezel.

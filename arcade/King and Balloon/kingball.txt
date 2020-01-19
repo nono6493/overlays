@@ -1,0 +1,4 @@
+game: King and Balloon
+publisher: Namco
+overlay author: nono6493
+source material: original cabinet's bezel downloaded at https://www.arcadeartwork.org/
