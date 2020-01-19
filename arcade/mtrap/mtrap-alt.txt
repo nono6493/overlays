@@ -1,4 +1,0 @@
-game: Mouse Trap
-publisher: Exidy
-overlay author: ts-x / nono6493
-source material: original ts-x's overlay with border added and coins removed.
