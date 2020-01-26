@@ -127,6 +127,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Space Panic (Universal) - Based on the original cabinet bezel.
 	* Spy Hunter (Atari) - Based on the original cabinet bezel.
 	* Stargate (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Stratovox (Taito) - Based on the original cabinet bezel.
 	* Street Fighter (Capcom) - Based on the original cabinet bezel and the original cabinet marquee.
 	* Street Fighter II (Capcom) - Based on the original cabinet bezel.
 	* Street Fighter II' Champion Edition (Capcom) - Based on the original cabinet bezel.
