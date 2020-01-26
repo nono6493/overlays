@@ -89,6 +89,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Klax (Atari) - Based on the original cabinet bezel. - Contribution from ts-x -
 	* Lady Bug (Universal) - Based on the original cabinet bezel.
 	* Led Storm (Capcom) - Original including some elements from cabinet bezel.
+	* Mag Max (Nichibutsu) - Based on the original flyer.
 	* Mappy (Namco) - Based on the original cabinet bezel.
 	* Marble Madness (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Mario Bros (Nintendo) - Based on the original cabinet bezel.

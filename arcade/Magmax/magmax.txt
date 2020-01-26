@@ -1,0 +1,4 @@
+game: Magmax
+publisher: Nichibutsu
+overlay author: nono6493
+source material: original flyer downloaded at https://archive.org/
