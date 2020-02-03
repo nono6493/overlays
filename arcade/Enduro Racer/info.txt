@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Enduro Racer (Rev A, YM2151, FD1089B 317-0013A)"
+rom_config = "enduror.zip.cfg"
+overlay_config = "enduror.cfg"
+overlay_image = "enduror_nono6493-ovl.png"
+rom_clones = "endurord;enduror1d;endurobl;endurora;endurorb;enduror1"
+system = "arcade"

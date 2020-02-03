@@ -1,0 +1,4 @@
+game: Enduro Racer
+publisher: Sega
+overlay author: nono6493
+source material: original artwork made for Hyperspin downloaded at https://www.screenscraper.fr - unknown author.

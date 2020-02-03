@@ -63,6 +63,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Driving Force (Shinkai Inc. - Magic Electronics Inc. license) - Based on the original cabinet bezel.
 	* Eight Ball Action (Seatongrove Ltd) - Original including some elements from cabinet bezel.
 	* Elevator Action (Taito) - Based on the original cabinet bezel.
+	* Enduro Racer (Sega) - Based on the original cabinet bezel.
 	* Express Raider (Data East) - Based on the original cabinet marquee.
 	* Frisky Tom (Nichibutsu) - Based on the original cabinet bezel.
 	* Frogger (Sega/Gremlin) - Based on original overlay created by UDb23. - Contribution from ts-x -
