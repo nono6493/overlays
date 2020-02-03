@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "WEC Le Mans 24 (v2.01)"
+rom_config = "wecleman.zip.cfg"
+overlay_config = "wecleman.cfg"
+overlay_image = "wecleman_nono6493-ovl.png"
+rom_clones = "WECLEMAN2;WECLEMANC;WECLEMANB;WECLEMANA"
+system = "arcade"
