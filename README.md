@@ -41,6 +41,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
 	* Centipede (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Chase H.Q. (Taito) - Based on the original cabinet bezel.
 	* Cheeky Mouse (Universal) - Based on the original cabinet bezel.
 	* Circus Charlie (Konami) - Based on original Mame bezel created by Krakerman (see circusc.txt for details)
 	* Clash-Road (Woodplace Inc.) - Based on original cabinet bezel.
