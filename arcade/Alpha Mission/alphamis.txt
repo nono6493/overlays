@@ -1,0 +1,4 @@
+game: Alpha Mission (aka A.S.O.)
+publisher: SNK
+overlay author: nono6493 (from an original by alexDC22)
+source material: Original overlay by AlexDC22 downloaded at https://www.flickr.com/photos/138118625@N05/
