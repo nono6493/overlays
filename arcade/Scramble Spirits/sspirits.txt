@@ -1,0 +1,4 @@
+game: Scramble Spirits
+publisher: Sega
+overlay author: nono6493 (from an original by Krakerman)
+source material: Original overlay by Krakerman downloaded at http://www.rlauncher.com/

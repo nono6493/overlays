@@ -117,6 +117,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Salamander (Konami) - Based on the original cabinet bezel.
 	* SAR - Search And Rescue (SNK) - Modified from original AlexCD22's overlay.
 	* Scramble (Stern Electronic) - Original including some elements from cabinet bezel.
+	* Scramble Spirits (Sega) - Based on the original marquee, original overlay from Krakerman.
 	* Shadow Dancer (Sega) - Based on the original cabinet bezel.
 	* Shinobi (Sega) - Based on the original cabinet bezel.
 	* Side Arms - Hyper Dyne (Capcom) - Based on the original cabinet bezel.
