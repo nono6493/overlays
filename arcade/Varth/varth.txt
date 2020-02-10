@@ -1,0 +1,4 @@
+game: Varth
+publisher: Capcom
+overlay author: nono6493 (from an idea by udb23)
+source material: Original game flyer downloaded at https://flyers.arcade-museum.com/

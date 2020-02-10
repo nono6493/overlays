@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Varth: Operation Thunderstorm (World 920714)"
+rom_config = "varth.zip.cfg"
+overlay_config = "varth.cfg"
+overlay_image = "varth_nono6493-ovl.png"
+rom_clones = "varthb;varthj;varthjr;varthu;varthr1"
+system = "arcade"
