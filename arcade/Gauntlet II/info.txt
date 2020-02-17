@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Gauntlet II"
+rom_config = "gaunt2.zip.cfg"
+overlay_config = "gaunt2.cfg"
+overlay_image = "gaunt2_nono6493-ovl.png"
+rom_clones = "gaun22p1;gaunt22p1;gaunt22p;gaun22pg;gaunt22pg;gaunt2g"
+system = "arcade"
