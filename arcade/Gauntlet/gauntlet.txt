@@ -1,0 +1,4 @@
+game: Gauntlet
+publisher: Atari
+overlay author: nono6493
+source material: various elements from original cabinet
