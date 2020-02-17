@@ -1,0 +1,4 @@
+game: Super Pang
+publisher: Mitchell
+overlay author: nono6493
+source material: Original cabinet bezel downloaded at https://www.arcadeartwork.org/

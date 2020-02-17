@@ -138,6 +138,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Street Fighter II (Capcom) - Based on the original cabinet bezel.
 	* Street Fighter II' Champion Edition (Capcom) - Based on the original cabinet bezel.
 	* Super Bagman (Valodon Automation / Stern Electronic) - Based on an original overlay created by Krakerman
+	* Super Pang (Mitchell) - Based on the original cabinet bezel.
 	* Superman (Taito) - Based on the original cabinet bezel.
 	* Terra Cresta (Nichibutsu) - Based on the original cabinet marquee and AlexDC22's overlay.
 	* Tetris (Atari) - Based on the original cabinet bezel.
