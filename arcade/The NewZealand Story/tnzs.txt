@@ -1,0 +1,4 @@
+game: The NewZealand Story
+publisher: Taito
+overlay author: nono6493
+source material: inspired by the original taito's flyer downloaded at https://flyers.arcade-museum.com/

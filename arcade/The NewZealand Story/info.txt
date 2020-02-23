@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "The NewZealand Story (World, new version) (P0-043A PCB)"
+rom_config = "tnzs.zip.cfg"
+overlay_config = "tnzs.cfg"
+overlay_image = "tnzs_nono6493-ovl.png"
+rom_clones = "tnzsj;tnzsjo;tnzsjn;tnzsuo;tnzsb;tnzso;tnzsop;tnzsoa;tnzs2"
+system = "arcade"
