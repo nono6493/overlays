@@ -4,6 +4,6 @@
 game_name = "Rainbow Islands (new version)"
 rom_config = "rbisland.zip.cfg"
 overlay_config = "rbisland.cfg"
-overlay_image = "rbisland_nono6493-ovl.png"
+overlay_image = "rbisland_krakerman-ovl.png"
 rom_clones = "rbislando;rainbow"
 system = "arcade"
