@@ -1,0 +1,4 @@
+game: Rainbow Island
+publisher: Taito
+overlay author:Krakerman, nono6493
+source material: Original overlay by Krakerman, reworked to keep collection design.
