@@ -1,0 +1,4 @@
+game: Bubble Bobble II (Bubble Symphony)
+publisher: Taito
+overlay author: nono6493
+source material: inspired by the original taito's flyer downloaded at https://flyers.arcade-museum.com/
