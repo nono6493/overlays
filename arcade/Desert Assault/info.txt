@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Desert Assault (US)"
+rom_config = "dassault.zip.cfg"
+overlay_config = "dassault.cfg"
+overlay_image = "dassault_nono6493-ovl.png"
+rom_clones = "dassaul4;dassault4;dassault;thndzonej;thndzone4;thndzonea"
+system = "arcade"

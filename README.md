@@ -56,6 +56,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Crystal Castles (Atari) - Based on the original cabinet bezel.
 	* Darius (Taito) - Based on the original cabinet artworks.
 	* Defender (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
+	* Desert Assault (Data East) - Based on the original cabinet bezel.
 	* Devil Zone (Universal) - Based on the original cabinet bezel.
 	* Dig Dug (Atari) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Donkey Kong (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
