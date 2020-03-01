@@ -84,6 +84,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Gun.Smoke (Capcom) - Based on the original cabinet marquee.
 	* Gunforce(Irem) - Based on the original cabinet bezel, CPO and marquee.
 	* Gyruss (Konami) - Based on the original "Centuri" cabinet bezel.
+	* Heavy Barrel (Data East) - Based on the original cabinet bezel.
 	* In The Hunt (Irem) - Based on the original flyer and the original arcade cabinet bezel.
 	* Ivan "Ironman" Stewart's Super Off Road (Leyland Corp) - Built from various elements.
 	* Ikari Warriors (SNK) - Based on the original cabinet bezel.
