@@ -149,6 +149,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* The Electric YoYo (Taito) - Based on original cabinet besel restored by Comboman.
 	* The NewZealand Story (Taito) - Based on the original Taito's flyer.
 	* The Speed Rumbler (Capcom) - Based on the original cabinet bezel.
+	* Tiger Road (Capcom) - Based on the original cabinet bezel.
 	* Toki (Tad Corporation) - Based on bezel found at "This is old Game" (https://www.thisoldgame.com/)
 	* Track & Field (Konami) - Based on original Konami's flyer.
 	* Up'n Down (Sega) - Based on original cabinet bezel.
