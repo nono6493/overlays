@@ -1,0 +1,4 @@
+game: Rastan
+publisher: Taito
+overlay author: nono6493
+source material: Built from original arcade cabinet's bezel downloaded at https://www.arcadeartwork.org/.

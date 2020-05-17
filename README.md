@@ -120,6 +120,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Qix (Taito) - Based on original cabinet bezel.
 	* Rainbow Island (Taito) - Original overlay by Krakerman, reworked to keep collection design.
 	* Rampage (Bally Midway) - Based on original cabinet bezel.
+	* Rastan (Taito) - Based on original cabinet bezel.
 	* Robotron (Williams) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Rygar (Tecmo) - Based on the original cabinet bezel.
 	* Salamander (Konami) - Based on the original cabinet bezel.
