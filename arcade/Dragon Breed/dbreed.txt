@@ -1,0 +1,4 @@
+game: Dragon Breed
+publisher: Irem
+overlay author: nono6493
+source material: Built from original arcade cabinet's side artwork downloaded at ArsInvictus 4K overlay repository (https://www.dropbox.com/sh/fwzdr4xg7y684iu/AACJfCVgabD5tP7UR4n9R_DZa?dl=0).

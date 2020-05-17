@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Dragon Breed (World, M81 PCB version)"
+rom_config = "dbreed.zip.cfg"
+overlay_config = "dbreed.cfg"
+overlay_image = "dbreed_nono6493-ovl.png"
+rom_clones = "dbreedm72j; dbreed72; dbreedm72"
+system = "arcade"

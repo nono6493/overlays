@@ -64,6 +64,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Donkey Kong Jr. (Nintendo) - Based on original overlay created by UDb23. - Contribution from ts-x -
 	* Double Dragon (Taito) - Original including some elements from cabinet bezel.
 	* Double Dragon II (Technos) - Based on the original cabinet bezel.
+	* Dragon Breed (Irem) - Based on the original cabinet sideart published by ArsInvictus.
 	* Driving Force (Shinkai Inc. - Magic Electronics Inc. license) - Based on the original cabinet bezel.
 	* Eight Ball Action (Seatongrove Ltd) - Original including some elements from cabinet bezel.
 	* Elevator Action (Taito) - Based on the original cabinet bezel.
@@ -170,11 +171,11 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 # Creators and contributors
 __Creators :__ nono6493, udb23  
 __Contributors :__ ts-x  
-__Source material creator :__ Comboman, udb23, Krakerman, AlexDC22 ...  
+__Source material creator :__ Comboman, udb23, Krakerman, AlexDC22, ArsInvictus ...  
 
 # Retropie users
 For an easy installation, use the [rpie-art script tool](https://github.com/meleu/rpie-art "Github meleu/rpie-art") from Meleu and select "nono6493 overlay repository". Most arcade overlays are available through this tool, and new ones are added every week.
 
 # Recalbox / Batocera users
-All those overlays can be used with those systems. Config files can be used without any change. Refer to the documentation of your system to know how to install new overlays.  
+All those overlays can be used with those systems. Refer to the documentation of your system to know how to install new overlays.  
 __Documentation for Recalbox__: [Retroarch setup overlays (English)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(EN) "Retroarch setup overlays (English)") - [(Français)](https://github.com/recalbox/recalbox-os/wiki/Retroarch-setup-overlays-(FR) "Retroarch setup overlays (Français)")
