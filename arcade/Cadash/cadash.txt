@@ -1,0 +1,4 @@
+game: Cadash
+publisher: Taito
+overlay author: nono6493
+source material: Built from original arcade cabinet's side artwork downloaded at https://www.arcadeartwork.org/.

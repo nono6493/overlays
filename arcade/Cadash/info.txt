@@ -1,0 +1,9 @@
+# game_name: REQUIRED
+# The script ignores the file if it doesn't have this entry if it's a system
+# generic overlay, game_name must be "_generic"
+game_name = "Cadash (World)"
+rom_config = "cadash.zip.cfg"
+overlay_config = "cadash.cfg"
+overlay_image = "cadash_nono6493-ovl.png"
+rom_clones = "cadashf;cadashg;cadashi;cadashjo;cadashj1;cadashj;cadashs;cadashu;cadashp"
+system = "arcade"

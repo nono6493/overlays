@@ -39,6 +39,7 @@ If you want to contribute, you are welcome. But because they are "unified", to b
 	* Bubble Bobble II / Bubble Symphony (Taito) - Based on the original Taito's flyer.
 	* Bump'n'Jump (Data East / Bally Midway) - Based on the original Bally Midway cabinet bezel.
 	* Burger Time (Data East - Bally Midway) - Based on the original cabinet bezel.
+	* Cadash (Taito) - Based on the original cabinet bezel.
 	* Cadillac and Dinosaurs (Capcom) - Based on the original cabinet bezel.
 	* Carnival (Sega/Gremlin) - Original including some elements from the cabinet bezel.
 	* Caveman Ninja (Data East) - Original including some elements from the cabinet bezel.
